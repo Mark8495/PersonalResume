@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font: 6em sans-serif;
 }
 body{
     background: lime;
@@ -15,7 +14,7 @@ body{
 {
     position: relative;
     width: 100%;
-    max-width: 100px;
+    max-width: 1000px;
     min-height: 100px;
     background: white;
 }
